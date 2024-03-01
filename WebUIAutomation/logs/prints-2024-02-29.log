@@ -1,0 +1,7 @@
+18:39:51.424 [main] INFO  TestCases.BaseClass - waiting for pass field visibilitys
+18:39:51.672 [main] INFO  TestCases.BaseClass - clicking on submit buttons
+18:39:53.941 [main] INFO  TestCases.BaseClass - Taking screenshot in TC01s
+18:39:53.968 [main] INFO  TestCases.BaseClass - Making while conditions for wait until Homepage navigations
+18:39:53.984 [main] INFO  TestCases.BaseClass - wait for username clickabilitys
+18:39:54.76 [main] INFO  TestCases.BaseClass - clicking on usernames
+18:39:54.150 [main] INFO  TestCases.BaseClass - clicking on Abouts
